@@ -1,0 +1,14 @@
+.env
+.env.*
+!.env.example
+backups/
+*.sql.gz
+*.dump
+*.zip
+contexto_proyecto_*.md
+docker-compose.paso*.yml
+__pycache__/
+*.py[cod]
+.DS_Store
+.vscode/
+.idea/

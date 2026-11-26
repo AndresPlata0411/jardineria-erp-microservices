@@ -1,0 +1,5 @@
+[server]
+headless = true
+baseUrlPath = "/app"
+enableCORS = false
+enableXsrfProtection = false
